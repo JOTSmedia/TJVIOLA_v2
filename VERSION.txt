@@ -1,0 +1,5 @@
+TJ VIOLA — V2
+
+Carpet trace: bottom-left → upper-left → upper-right → lower-right → bottom-left.
+At 100%: blue/teal rug details, border, instruments, Leslie, and Logic screen share the neon completion pulse.
+Shared link preview: hero section without navigation, using tj-viola-hero-share-v2.jpg.
